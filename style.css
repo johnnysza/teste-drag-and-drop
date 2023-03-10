@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #6f36ff;
+  background: #c92222;
 }
 
 .wrapper {
@@ -17,7 +17,7 @@ body {
   left: 50%;
   max-width: 450px;
   width: 100%;
-  background: #fff;
+  background: #d6acac;
   border-radius: 10px;
   transform: translate(-50%, -50%);
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.06);
