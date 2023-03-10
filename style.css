@@ -26,7 +26,7 @@ header {
   gap: 10px;
 }
 
-#item1 {
+.item {
   height: 350px;
   text-align: center;
   border: 2px solid grey;
@@ -35,20 +35,6 @@ header {
 
 .item img {
   height: 300px;
-}
-
-#item2 {
-  height: 350px;
-  text-align: center;
-  border: 2px solid grey;
-  border-radius: 5px;
-}
-
-#item3 {
-  height: 350px;
-  text-align: center;
-  border: 2px solid grey;
-  border-radius: 5px;
 }
 
 .medicine {
